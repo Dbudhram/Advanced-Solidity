@@ -138,10 +138,30 @@ In this subsection, you’ll deploy the crowdsale to a local blockchain. You’l
 
 ## Submission
 
-* Upload the files for this assignment to your GitHub repository.
+Showing clean Ganache slate
+![alt=""](Images/Ganache.PNG)
+Showing the connection of Metamask to Ganache
+![alt=""](Images/MetaMask%20and%20Ganache%20Connected.PNG)
+Compiling Kaisen Coin
+![alt=""](Images/Compiling%20KaseiCoin.PNG)
+Compiling and Deploying  the Contract Deployer
+![alt=""](Images/Deploying%20KaseiCrowdsaleDeployer%20Contract.PNG)
+Showing Successful Deployment through Metamask and Ganache
+![alt=""](Images/Successful%20Deployment%20shown%20by%20MetaMask%20and%20Ganache.PNG)
+Compiling and Deploying Kaisen Crowdsale
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+![alt=""](Images/Compiling%20%20and%20Deploying%20Kasei%20Crowdsale.PNG)
 
----
+Confirming addresses from Deployment
+
+![alt=""](Images/Confirmation%20of%20addresses%20from%20Deployer%20contract.PNG)
+
+Testing the Buy Token
+
+![alt=""](Images/Testing%20Buy%20Token%20Function.PNG)
+
+Confirmation of Token Test Success
+
+![alt=""](Images/Confirmation%20of%20Token%20Function.PNG)
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
